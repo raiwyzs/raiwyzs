@@ -1,7 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raissa</h1>
 ![Snoopy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzaTJpdHIxYWppMzc2ODM2cm53ZmpsZGExNHZ3enc1OG91eWJxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aeu60CPZd8zw4/giphy.gif)
 
-<h1 align="center">Hi 👋, I'm Raissa</h1>
+
 <h3 align="center">A passionate frontend developer from Caicó</h3>
 
 <h3 align="left">Connect with me:</h3>
