@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raissa</h1>
 
-![Snoopy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzaTJpdHIxYWppMzc2ODM2cm53ZmpsZGExNHZ3enc1OG91eWJxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aeu60CPZd8zw4/giphy.gif)
-
-
-<h3 align="center">A passionate frontend developer from Caicó</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiwyzs&show_icons=true&theme=radical)
+![Snoopy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzaTJpdHIxYWppMzc2ODM2cm53ZmpsZGExNHZ3enc1OG91eWJxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aeu60CPZd8zw4/giphy.gif) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiwyzs&show_icons=true&theme=radical)
 
 
 
