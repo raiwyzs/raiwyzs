@@ -4,7 +4,7 @@
 
 ## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs00710&custom_title=This%20is%20a%20title&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs&custom_title=This%20is%20a%20title&hide_border=true" width="90%" />
 </p>
 
 ---
