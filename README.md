@@ -18,6 +18,16 @@ Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, t
 Atualmente estudando e desenvolvendo projetos pessoais que me ajudam a evoluir um pouco todos os dias.  
 Café, boas interfaces e código bem escrito movem minha alma dev.
 
+#### 💎 Projetos em Destaque
+
+Tenho orgulho em trabalhar em projetos que combinam criatividade, propósito e tecnologia:
+
+- **[☕ Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** — Um sistema aconchegante, organizado e elegante que redefine a experiência em cafeterias. Design sofisticado encontra funcionalidade intuitiva.
+
+- **[🎮 Divermática](https://github.com/raiwyzs/Divermatica.git)** — Uma plataforma de jogos educativos para crianças do fundamental I, onde aprendizado rima com diversão. Educação + criatividade = magia!
+
+- **[📚 @livialop/rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** — Um projeto colaborativo que cultiva conhecimento. Raízes profundas em boas práticas e arquitetura bem pensada.
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -45,8 +55,9 @@ Café, boas interfaces e código bem escrito movem minha alma dev.
 
 ### 🚀 Projects
 
-- 🔭 Currently building **[Divermática](https://github.com/raiwyzs/Divermatica.git)** — um projeto cheio de criatividade e propósito  
-- 👯 Collaborating on **[Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** — um sistema aconchegante, organizado e elegante
+- 🔭 Currently building **[Divermática](https://github.com/raiwyzs/Divermatica.git)**  
+- 👯 Collaborating on **[Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** 
+- 🌱 Contributing to **[@livialop/rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** 
 
 ---
 
