@@ -4,7 +4,7 @@
 
 ## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs&theme=tokyo-night&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raiwyzs&theme=dark&show_icons=true" width="90%" />
 </p>
 
 ---
