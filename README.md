@@ -15,19 +15,14 @@ Sou uma desenvolvedora fullstack apaixonada por criar interfaces bonitas, intuit
 Gosto de transformar ideias em experiências digitais funcionais — sempre equilibrando estética, código limpo e criatividade.  
 Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, tecnologias e maneiras de deixar a web mais divertida.
 
-Atualmente estudando e desenvolvendo projetos pessoais que me ajudam a evoluir um pouco todos os dias.  
-Café, boas interfaces e código bem escrito movem minha alma dev.
-
 #### 💎 Projetos em Destaque
 
-Tenho orgulho em trabalhar em projetos que combinam criatividade, propósito e tecnologia:
 
-- **[☕ Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** — Um sistema aconchegante, organizado e elegante que redefine a experiência em cafeterias. Design sofisticado encontra funcionalidade intuitiva.
+- **[☕ Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)**
 
-- **[🎮 Divermática](https://github.com/raiwyzs/Divermatica.git)** — Uma plataforma de jogos educativos para crianças do fundamental I, onde aprendizado rima com diversão. Educação + criatividade = magia!
+- **[🎮 Divermática](https://github.com/raiwyzs/Divermatica.git)** 
 
-- **[📚 @livialop/rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** — Um projeto colaborativo que cultiva conhecimento. Raízes profundas em boas práticas e arquitetura bem pensada.
-
+- **[📚 rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** 
 ---
 
 ### 🛠️ Languages & Tools
@@ -59,8 +54,3 @@ Tenho orgulho em trabalhar em projetos que combinam criatividade, propósito e t
 - 👯 Collaborating on **[Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** 
 - 🌱 Contributing to **[@livialop/rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** 
 
----
-
-<p align="center">
-  ✨ *Coding with love, coffee and curiosity.* ✨
-</p>
