@@ -1,6 +1,4 @@
-<!-- Banner / Apresentação -->
 <h1 align="center">Hi 👋, I'm Raissa</h1>
-<h3 align="center">A passionate Fullstack Developer from Brasil</h3>
 
 ## 📈 Activity
 <p align="center">
