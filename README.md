@@ -52,5 +52,7 @@ Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, t
 
 - 🔭 Currently building **[Divermática](https://github.com/raiwyzs/Divermatica.git)**  
 - 👯 Collaborating on **[Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** 
-- 🌱 Contributing to **[rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** 
+- 🌱 Contributing to **[rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)**
+- 🌱 Contributing to **[biblioteca-bd](https://github.com/livialop/biblioteca-bd)**
+
 
