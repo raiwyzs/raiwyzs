@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Raissa</h1>
 <h3 align="center">A passionate Fullstack Developer from Brasil</h3>
 
+## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiwyzs&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs&theme=tokyo-night&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
