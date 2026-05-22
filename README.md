@@ -2,10 +2,9 @@
 
 ## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs&custom_title=raiwyzs commit´s&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiwyzs&custom_title=This%20is%20a%20title&hide_border=true" width="90%" />
 </p>
 
----
 
 ### 🌸 About Me
 
@@ -52,5 +51,3 @@ Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, t
 - 👯 Collaborating on **[Relier Café](https://github.com/raiwyzs/Relier_Cafe.git)** 
 - 🌱 Contributing to **[rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)**
 - 🌱 Contributing to **[biblioteca-bd](https://github.com/livialop/biblioteca-bd)**
-
-
