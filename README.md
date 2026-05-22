@@ -20,7 +20,6 @@ Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, t
 - **[🎮 Divermática](https://github.com/raiwyzs/Divermatica.git)** 
 
 - **[📚 rootsOfKnowledge](https://github.com/livialop/rootsOfKnowledge)** 
----
 
 ### 🛠️ Languages & Tools
 
@@ -43,7 +42,6 @@ Tenho um pé no design e outro na lógica, e vivo explorando novos frameworks, t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
----
 
 ### 🚀 Projects
 
